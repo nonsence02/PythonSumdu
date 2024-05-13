@@ -1,0 +1,72 @@
+[
+    {
+        "last_name": "Ivanov",
+        "first_name": "Petro",
+        "middle_name": "Oleksandrovich",
+        "birth_date": [2005, 4, 20],
+        "gender": "man"
+    },
+    {
+        "last_name": "Petrov",
+        "first_name": "Ivan",
+        "middle_name": "Mikolayovich",
+        "birth_date": [2006, 3, 15],
+        "gender": "man"
+    },
+    {
+        "last_name": "Sidorenko",
+        "first_name": "Maria",
+        "middle_name": "Ivanivna",
+        "birth_date": [2005, 5, 10],
+        "gender": "women"
+    },
+    {
+        "last_name": "Kovalenko",
+        "first_name": "Vadim",
+        "middle_name": "Volodimirovich",
+        "birth_date": [2005, 6, 25],
+        "gender": "man"
+    },
+    {
+        "last_name": "Melnyk",
+        "first_name": "Anna",
+        "middle_name": "Sergiivna",
+        "birth_date": [2006, 7, 30],
+        "gender": "women"
+    },
+    {
+        "last_name": "Schevchenko",
+        "first_name": "Oleg",
+        "middle_name": "Petrovich",
+        "birth_date": [2005, 8, 5],
+        "gender": "man"
+    },
+    {
+        "last_name": "Bondarenko",
+        "first_name": "Olena",
+        "middle_name": "Igorivna",
+        "birth_date": [2006, 9, 18],
+        "gender": "women"
+    },
+    {
+        "last_name": "Kozlov",
+        "first_name": "Vasil",
+        "middle_name": "Andriyovich",
+        "birth_date": [2005, 10, 9],
+        "gender": "man"
+    },
+    {
+        "last_name": "Moroz",
+        "first_name": "Tetiana",
+        "middle_name": "Viktorivna",
+        "birth_date": [2006, 11, 12],
+        "gender": "women"
+    },
+    {
+        "last_name": "Daniluk",
+        "first_name": "Igor",
+        "middle_name": "Stepanovich",
+        "birth_date": [2005, 3, 18],
+        "gender": "man"
+    }
+]
