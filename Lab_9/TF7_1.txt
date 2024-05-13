@@ -1,0 +1,5 @@
+Hello world! This is a test file with some words.
+Python programming language is awesome.
+Regular expressions are very useful for text processing.
+I love programming and solving problems.
+Let's create a program to find duplicated letters in words.
